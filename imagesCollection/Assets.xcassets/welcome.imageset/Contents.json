@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "welcome-png-transparent-welcome-images-251302.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
