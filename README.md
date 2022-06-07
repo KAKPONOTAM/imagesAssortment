@@ -1,1 +1,1 @@
-# imagesCollection
+# imagesAssortment
