@@ -127,6 +127,8 @@ class DetailsViewController: UIViewController {
             downloadsAmountLabel.trailingAnchor.constraint(equalTo: view.trailingAnchor),
             downloadsAmountLabel.heightAnchor.constraint(equalTo: locationLabel.heightAnchor)
         ])
+        
+        print("daddaadda")
     }
     
     private func setupNavigationBar() {
